@@ -1,2 +1,2 @@
 # zhyniubi
-与其996不如hello word!!1
+java实现哥德巴赫猜想!!简单容易理解!
